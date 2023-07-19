@@ -56,7 +56,6 @@ We made code for the Clothing Management which makes the Work-Process easy to us
 •	Graphic User Interface(PySimpleGUI)
 •	Random Library Imported
 
-
 4.	Conclusion:
 
 In conclusion, our project aimed to develop a clothing management system using Python. We successfully designed a database for a clothing store, allowing users to add products, perform various operations, and generate receipts. Through the utilization of classes, abstract classes, static methods, objects, encapsulation, exceptional handling, file handling, trees, lists, functions, and different loops, we created a user-friendly interface with PySimpleGUI.Thank you for considering our project. We look forward to any feedback and opportunities to further refine and enhance our skills in software development.
